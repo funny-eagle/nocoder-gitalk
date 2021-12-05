@@ -1,1 +1,1 @@
-gitalk for http://nocoder.org
+Gitalk comments for http://nocoder.org.
